@@ -8,7 +8,7 @@
 		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>swp391.group04</groupId>
+	<groupId>SWD</groupId>
 	<artifactId>SWD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zoomanagement</name>
@@ -47,11 +47,7 @@
 			<version>2.8.0</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework.security</groupId>
-			<artifactId>spring-security-config</artifactId>
-			<version>5.2.7.RELEASE</version>
-		</dependency>
+
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt</artifactId>
